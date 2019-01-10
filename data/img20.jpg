@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8"/>
+	<title>ShitpostBot 5000</title>
+	<meta name="description" content="ShitpostBot 5000 is a facebook page where a meme is posted every 30 mins by a bot. This website is where you can submit your own source images and templates."/>
+	<meta name="keyword" content="facebook bot meme generator shitpost bot shitpostbot 5000 machine robot randomly generated"/>
+	<meta property="og:title" content="ShitpostBot 5000"/>
+	<meta property="og:type" content="website"/>
+	<meta property="og:image" content="http://www.shitpostbot.com/resize/200/200?img=%2Fimg%2Ftheme%2Flogo.png"/>
+	<meta property="og:url" content="http://www.shitpostbot.com/img/sourceimages/ok-5a4c56d7e9c4f.jpeg"/>
+	<meta property="og:description" content="ShitpostBot 5000 is a facebook page where a meme is posted every 30 mins by a bot."/>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+	<link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="/css/lightbox.css">
+	<link rel="stylesheet" href="/css/style.css">
+	</head>
+<body>
+	<div class="container">
+		<header>
+			<p>&gt;:&nbsp;restructuring client machine using c bindings..</p>
+			<h1><a href="/">&gt;: SHITPOSTBOT 5000</a></h1>
+			<span class="socials">
+				<span class="social facebook">
+					<a href="http://www.fb.com/1663308127217572" target="_blank">
+						<img src="/img/theme/flogo.png" alt=""/>
+					</a>
+				</span>
+				<span class="social twitter">
+					<a href="http://www.twitter.com/shitpostbot5000" target="_blank">
+						<img src="/img/theme/tlogo.png" alt=""/>
+					</a>
+				</span>
+				<span class="social instagram">
+					<a href="https://www.instagram.com/shitpostbot5000/" target="_blank">
+						<img src="/img/theme/iglogo.png" alt=""/>
+					</a>
+				</span>
+				<span class="social tumblr">
+					<a href="https://shitpostbot5k.tumblr.com/" target="_blank">
+						<img src="/img/theme/tumblrlogo.png" alt=""/>
+					</a>
+				</span>
+				<span class="social vk">
+					<a href="https://vk.com/shitpostbot" target="_blank">
+						<img src="/img/theme/vklogo.png" alt=""/>
+					</a>
+				</span>
+				<span class="social patreon">
+					<a href="https://www.patreon.com/shitpostbot5000" target="_blank">
+						<img src="/img/theme/patreonlogo.png" alt=""/>
+					</a>
+				</span>
+			</span>
+			<ul class="nav nav-tabs">
+				<li>
+					<a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+						Gallery
+					</a>
+					<ul class="dropdown-menu">
+						<li><a href="/gallery/templates">Templates</a></li>
+						<li><a href="/gallery/sourceimages">Source Images</a></li>
+											</ul>
+				</li>
+									<li><a href="/login">Login</a></li>
+					<li><a href="/register">Register</a></li>
+								<li>
+					<a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+						The Bot
+					</a>
+					<ul class="dropdown-menu">
+						<li><a href="/bot/content">Content Stats</a></li>
+					</ul>
+				</li>
+			</ul>
+		</header>
+		<br/>
+				    <div class="console">
+                    <p>&gt;:&nbsp;restructuring main server using powershell..</p>
+                    <p>&gt;:&nbsp;parsing shitpostbot&#039;s ai core using java..</p>
+                    <p>&gt;:&nbsp;downloading client machine using sql..</p>
+                    <p>&gt;:&nbsp;reticulating shitpostbot&#039;s ai core using sql..</p>
+                    <p>&gt;:&nbsp;subnetting client software using 2 codes layered right on top of eachother..</p>
+                    <p>&gt;:&nbsp;recompiling client software using a linux vm..</p>
+                <p>&gt;:&nbsp;attempting to load page for user at addr 1.186.2.140..<span class="blink">&nbsp;</span></p>
+        <p class="error strobe">CRITICAL ERROR</p>
+        <p class="error strobe">COULD NOT FIND DATA AT ROUTE</p>
+        <p class="error">returning 404 page..</p>
+    </div>
+		<hr/>
+		<div style="text-align: center">
+			<img style="width: 80%" src="/img/theme/transfootfetish.png" alt="trans feet are tasty"/>
+					</div>
+		<div style="font-size: 5pt; text-align: right;"><a href="/thanks" style="color: #014001;">jeff</a></div>
+	</div>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+	<script src="/js/clipboard.min.js"></script>
+	<script>
+		var clipboard = new Clipboard('.clipboard-btn');
+	</script>
+    <script src="/js/lightbox.js"></script>
+	<script src="/js/ajax.js"></script>
+	</body>
+</html>
