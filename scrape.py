@@ -2,16 +2,15 @@ from bs4 import BeautifulSoup
 import requests
 import urllib
 import os
-page = requests.get ("https://www.shitpostbot.com/gallery/sourceimages")
+page_number=1
+page = requests.get ("https://www.shitpostbot.com/gallery/sourceimages/?page="+str(page_number))
 soup = BeautifulSoup (page.content, 'html.parser')
 imgs=soup.find_all ('div', class_='img')
-all_links=[]
-for i in imgs:
-    all_links.append (str(i.find('a')))
 all_links_new=[]
-for a in all_links:
-    all_links_new.append("https://www.shitpostbot.com/img/sourceimages" + (a.split("\"")[1][12:]) + ".jpeg")
-counter=1
+for i in imgs:
+    all_links_new.append("https://www.shitpostbot.com/img/sourceimages" + (str(i.find('a')).split("\"")[1][12:]) + ".jpeg")
+
+counter=25*(page_number-1)
 
 for a in all_links_new:
     print (a)

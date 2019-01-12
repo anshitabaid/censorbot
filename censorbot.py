@@ -4,7 +4,7 @@ from PIL import Image
 import random
 
 '''infile = sys.argv [1:][0]'''
-for i in range (1,25):
+for i in range (1,49):
     try:
         file = "img" + str(i) + ".jpg"
         im= Image.open ('data/'+file)
